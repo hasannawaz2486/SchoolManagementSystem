@@ -1,0 +1,4 @@
+Hasan Nawaz,physics,1 : 30
+Amna Nawaz,psychology,2 : 40
+Rayan Rasheed,Mathmetics,5 : 30
+Zaid majid,urdu,6 : 40

@@ -1,0 +1,11 @@
+Rayan Rasheed,Rasheed,Rayan007,12,3300,98,24,10,56,1
+Muhammad Umer,Ancle g,Umer007,20,2500,98,92,22,45,0
+Muhammad Umer,Ancle g,Umer007,20,2500,98,82,33,59,1
+Hamza Dhillon,Tariq Umer,Hamza007,15,3700,97,74,99,46,0
+Hasan Nawaz,M nawaz,Hasan007,11,3600,97,77,98,56,1
+Mutaiba mohsin,mohsin ancle,Mutbalia007,19,50000,97,44,82,45,1
+Fatima Muskan,Ancle g,Fatima007,17,6590,95,99,39,59,0
+Mukarrum Ali,Ancle G,Mukali007,13,6700,95,55,57,46,1
+Abdurehman,Ancle g,Abdurehman007,21,6900,95,55,77,56,0
+Aqsa Mehmood,Mehmod Ancle,Aqsa007,18,5030,99,33,66,45,1
+Amna Nawaz,M Nawaz,Amna007,14,5000,48,23,63,59,0

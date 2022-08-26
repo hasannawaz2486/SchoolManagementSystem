@@ -1,0 +1,7 @@
+Rayan Rasheed,Mrasheed,rayan007,03234477857,Tariq  hall room 18,3310014842711,236,44800
+Elsa Rasheed,Mrasheed,elsa007,03234477857,khalid hall room 18,3310014842711,234,45000
+Laeeq sir,khan niazi,sirlaeeq007,03098762343,sir syed pro room 127,3310014841911,305,47000
+mam sadia,akhter p,sadia007,03236644847,strt 5 hall road fsd,3310014841911,193,50000
+Elma Nawaz,M nawaz,elma007,03098762343,childresn hospital room 53,3310014841911,345,51000
+Amna Nawaz,M nawaz,amna007,03098762343,Mao hospital room 53,3310014841911,348,53000
+Ayesha Nawaz,M Nawaz,ayesha007,03236644847,strt 6 hall road fsd,3310014841911,123,55000
